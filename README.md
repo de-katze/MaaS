@@ -1,1 +1,1 @@
-# MaaS ![](https://maas.hop.sh/icon)
+# MaaS <img src="https://maas.hop.sh/icon" width="250"/>
