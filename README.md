@@ -1,1 +1,1 @@
-# MaaS <img src="https://maas.hop.sh/icon" width="250"/>
+# MaaS <img src="https://maas.hop.sh/icon" width="43"/>
